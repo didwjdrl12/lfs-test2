@@ -1,0 +1,8 @@
+C:\work\octopus\ProgramBin\MultiDroneLauncher\MultiDroneLauncher.exe.config
+C:\work\octopus\ProgramBin\MultiDroneLauncher\MultiDroneLauncher.exe
+C:\work\octopus\ProgramBin\MultiDroneLauncher\MultiDroneLauncher.pdb
+C:\work\octopus\Program\MultiDroneLauncher\MultiDroneLauncher\obj\Release\MultiDroneLauncher.csproj.AssemblyReference.cache
+C:\work\octopus\Program\MultiDroneLauncher\MultiDroneLauncher\obj\Release\MultiDroneLauncher.csproj.CoreCompileInputs.cache
+C:\work\octopus\Program\MultiDroneLauncher\MultiDroneLauncher\obj\Release\MultiDroneLauncher.csproj.CopyComplete
+C:\work\octopus\Program\MultiDroneLauncher\MultiDroneLauncher\obj\Release\MultiDroneLauncher.exe
+C:\work\octopus\Program\MultiDroneLauncher\MultiDroneLauncher\obj\Release\MultiDroneLauncher.pdb

@@ -1,0 +1,17 @@
+﻿  MavLinkConnection.cpp
+  MavLinkFtpClient.cpp
+  MavLinkMessageBase.cpp
+  MavLinkNode.cpp
+  MavLinkTcpServer.cpp
+  MavLinkVehicle.cpp
+  MavLinkVideoStream.cpp
+  MavLinkConnectionImpl.cpp
+  MavLinkFtpClientImpl.cpp
+  MavLinkNodeImpl.cpp
+  MavLinkTcpServerImpl.cpp
+  MavLinkVehicleImpl.cpp
+  MavLinkVideoStreamImpl.cpp
+  OneCoreFindSerialPorts.cpp
+  WindowsFindSerialPorts.cpp
+  코드를 생성하고 있습니다...
+  MavLinkCom.vcxproj -> E:\ETRI\Drone2021\Airsim\MavLinkCom\lib\x64\Debug\MavLinkCom.lib

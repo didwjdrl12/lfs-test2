@@ -1,0 +1,15 @@
+C:\work\ProgramBin\MultiDroneUnityServer\MultiDroneServer.exe.config
+C:\work\ProgramBin\MultiDroneUnityServer\MultiDroneServer.exe
+C:\work\ProgramBin\MultiDroneUnityServer\MultiDroneServer.pdb
+C:\work\octopus\Program\MultiDroneServer\MultiDroneServer\obj\Release\MultiDroneServer.csproj.AssemblyReference.cache
+C:\work\octopus\Program\MultiDroneServer\MultiDroneServer\obj\Release\MultiDroneServer.csproj.CoreCompileInputs.cache
+C:\work\octopus\Program\MultiDroneServer\MultiDroneServer\obj\Release\MultiDroneServer.csproj.CopyComplete
+C:\work\octopus\Program\MultiDroneServer\MultiDroneServer\obj\Release\MultiDroneServer.exe
+C:\work\octopus\Program\MultiDroneServer\MultiDroneServer\obj\Release\MultiDroneServer.pdb
+C:\work\octopus\Program\MultiDroneServer\MultiDroneServer\obj\Release\MultiDroneServer.csproj.SuggestedBindingRedirects.cache
+C:\work\octopus\ProgramBin\MultiDroneUnityServer\MultiDroneServer.exe.config
+C:\work\octopus\ProgramBin\MultiDroneUnityServer\MultiDroneServer.exe
+C:\work\octopus\ProgramBin\MultiDroneUnityServer\MultiDroneServer.pdb
+C:\work\octopus\ProgramBin\MultiDroneServer\MultiDroneServer.exe.config
+C:\work\octopus\ProgramBin\MultiDroneServer\MultiDroneServer.exe
+C:\work\octopus\ProgramBin\MultiDroneServer\MultiDroneServer.pdb

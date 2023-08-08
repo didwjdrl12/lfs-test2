@@ -1,0 +1,11 @@
+﻿  MavlinkForRelay.cpp
+E:\ETRI\Drone2021\Airsim\Program\MavlinkForRelay\MavlinkForRelay\Library\mavlink_conversions.h(49,33): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\ETRI\Drone2021\Airsim\Program\MavlinkForRelay\MavlinkForRelay\Library\mavlink_conversions.h(50,19): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\ETRI\Drone2021\Airsim\Program\MavlinkForRelay\MavlinkForRelay\Library\mavlink_conversions.h(51,19): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\ETRI\Drone2021\Airsim\Program\MavlinkForRelay\MavlinkForRelay\Library\mavlink_conversions.h(52,19): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\ETRI\Drone2021\Airsim\Program\MavlinkForRelay\MavlinkForRelay\Library\mavlink_conversions.h(53,33): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\ETRI\Drone2021\Airsim\Program\MavlinkForRelay\MavlinkForRelay\Library\mavlink_conversions.h(54,19): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\ETRI\Drone2021\Airsim\Program\MavlinkForRelay\MavlinkForRelay\Library\mavlink_conversions.h(55,19): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\ETRI\Drone2021\Airsim\Program\MavlinkForRelay\MavlinkForRelay\Library\mavlink_conversions.h(56,19): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\ETRI\Drone2021\Airsim\Program\MavlinkForRelay\MavlinkForRelay\Library\mavlink_conversions.h(57,33): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MavlinkForRelay.vcxproj -> E:\ETRI\Drone2021\Airsim\ProgramBin\MavlinkForRelay\MavlinkForRelay.exe

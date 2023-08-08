@@ -1,0 +1,10 @@
+C:\work\octopus\Program\JNetEngine\obj\Release\JNetEngine.csproj.AssemblyReference.cache
+C:\work\octopus\Program\JNetEngine\obj\Release\JNetEngine.csproj.CoreCompileInputs.cache
+C:\work\octopus\Program\JNetEngine\obj\Release\JNetEngine.csproj.CopyComplete
+C:\work\octopus\Program\JNetEngine\JNetEngine.dll.config
+C:\work\octopus\Program\JNetEngine\obj\Release\JNetEngine.dll
+C:\work\octopus\Program\JNetEngine\obj\Release\JNetEngine.pdb
+C:\work\octopus\Program\JNetEngine\JNetEngine.dll
+C:\work\octopus\Program\JNetEngine\JNetEngine.pdb
+C:\work\octopus\Program\JNetEngine\System.ValueTuple.dll
+C:\work\octopus\Program\JNetEngine\System.ValueTuple.xml

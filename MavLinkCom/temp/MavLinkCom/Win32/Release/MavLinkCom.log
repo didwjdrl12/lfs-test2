@@ -1,0 +1,31 @@
+﻿  FileSystem.cpp
+  ThreadUtils.cpp
+  UdpSocket.cpp
+  UdpSocketImpl.cpp
+  AdHocConnection.cpp
+  AdHocConnectionImpl.cpp
+  MavLinkFtpClientImpl.cpp
+  MavLinkNodeImpl.cpp
+  MavLinkTcpServerImpl.cpp
+  OneCoreFindSerialPorts.cpp
+  WindowsFindSerialPorts.cpp
+  MavLinkFtpClient.cpp
+  MavLinkLog.cpp
+  MavLinkMessageBase.cpp
+  MavLinkMessages.cpp
+  MavLinkNode.cpp
+  Semaphore.cpp
+  MavLinkTcpServer.cpp
+  MavLinkVehicle.cpp
+  MavLinkVehicleImpl.cpp
+  컴파일하고 있습니다...
+  MavLinkConnection.cpp
+  MavLinkConnectionImpl.cpp
+  MavLinkVideoStream.cpp
+  MavLinkVideoStreamImpl.cpp
+  SerialPort.cpp
+  SocketInit.cpp
+  TcpClientPort.cpp
+  UdpClientPort.cpp
+  wifi.cpp
+  MavLinkCom.vcxproj -> C:\work\octopus\MavLinkCom\lib\Win32\Release\MavLinkCom.lib

@@ -1,0 +1,762 @@
+﻿  RpcLibClientBase.cpp
+C:\work\octopus\AirLib\include\Eigen\src\Core\arch\Default\Half.h(1,1): error C2220: 다음 경고는 오류로 처리됩니다.
+C:\work\octopus\AirLib\include\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\work\octopus\AirLib\include\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\work\octopus\AirLib\include\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\work\octopus\AirLib\include\Eigen\src\Core\products\GeneralBlockPanelKernel.h(2063,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\work\octopus\AirLib\include\common\AirSimSettings.hpp(17,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'Source/MultiDroneGameInstance.h': No such file or directory
+  RpcLibServerBase.cpp
+C:\work\octopus\AirLib\include\Eigen\src\Core\arch\Default\Half.h(1,1): error C2220: 다음 경고는 오류로 처리됩니다.
+C:\work\octopus\AirLib\include\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\work\octopus\AirLib\include\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\work\octopus\AirLib\include\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\work\octopus\AirLib\include\Eigen\src\Core\products\GeneralBlockPanelKernel.h(2063,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\work\octopus\AirLib\include\common\AirSimSettings.hpp(17,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'Source/MultiDroneGameInstance.h': No such file or directory
+  MultirotorApiBase.cpp
+C:\work\octopus\AirLib\include\Eigen\src\Core\arch\Default\Half.h(1,1): error C2220: 다음 경고는 오류로 처리됩니다.
+C:\work\octopus\AirLib\include\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\work\octopus\AirLib\include\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\work\octopus\AirLib\include\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\work\octopus\AirLib\include\Eigen\src\Core\products\GeneralBlockPanelKernel.h(2063,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\work\octopus\AirLib\include\Eigen\src\Core\PlainObjectBase.h(154,1): warning C4127: 조건식이 상수입니다.
+C:\work\octopus\AirLib\include\Eigen\src\Core\PlainObjectBase.h(154,1): message : 'if constexpr' 문을 대신 사용해 보세요.
+C:\work\octopus\AirLib\include\Eigen\src\Core\PlainObjectBase.h(153): message : 클래스 템플릿 멤버 함수 'const float &Eigen::PlainObjectBase<Eigen::Matrix<float,3,1,0,3,1>>::coeff(Eigen::EigenBase<Derived>::Index,Eigen::EigenBase<Derived>::Index) const'을(를) 컴파일하는 중입니다.
+          with
+          [
+              Derived=Eigen::Matrix<float,3,1,0,3,1>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\CwiseNullaryOp.h(533): message : 컴파일되는 함수 템플릿 인스턴스화 'const float &Eigen::PlainObjectBase<Eigen::Matrix<float,3,1,0,3,1>>::coeff(Eigen::EigenBase<Derived>::Index,Eigen::EigenBase<Derived>::Index) const'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::Matrix<float,3,1,0,3,1>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Matrix.h(180): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::PlainObjectBase<Eigen::Matrix<float,3,1,0,3,1>>'에 대한 참조를 확인하세요.
+C:\work\octopus\AirLib\include\common\Common.hpp(71): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::Matrix<float,3,1,0,3,1>'에 대한 참조를 확인하세요.
+C:\work\octopus\AirLib\include\Eigen\src\Core\BooleanRedux.h(111,1): warning C4127: 조건식이 상수입니다.
+C:\work\octopus\AirLib\include\Eigen\src\Core\BooleanRedux.h(111,1): message : 'if constexpr' 문을 대신 사용해 보세요.
+C:\work\octopus\AirLib\include\Eigen\src\Core\BooleanRedux.h(104): message : 클래스 템플릿 멤버 함수 'bool Eigen::DenseBase<Derived>::any(void) const'을(를) 컴파일하는 중입니다.
+          with
+          [
+              Derived=Eigen::CwiseUnaryOp<Eigen::internal::scalar_isnan_op<float>,const Eigen::ArrayWrapper<const Eigen::Matrix<float,3,1,0,3,1>>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\BooleanRedux.h(140): message : 컴파일되는 함수 템플릿 인스턴스화 'bool Eigen::DenseBase<Derived>::any(void) const'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::CwiseUnaryOp<Eigen::internal::scalar_isnan_op<float>,const Eigen::ArrayWrapper<const Eigen::Matrix<float,3,1,0,3,1>>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\ArrayBase.h(41): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::DenseBase<Derived>'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::CwiseUnaryOp<Eigen::internal::scalar_isnan_op<float>,const Eigen::ArrayWrapper<const Eigen::Matrix<float,3,1,0,3,1>>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\CwiseUnaryOp.h(96): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::ArrayBase<Derived>'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::CwiseUnaryOp<Eigen::internal::scalar_isnan_op<float>,const Eigen::ArrayWrapper<const Eigen::Matrix<float,3,1,0,3,1>>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\CwiseUnaryOp.h(55): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::CwiseUnaryOpImpl<UnaryOp,XprType,Eigen::internal::traits<Derived>::StorageKind>'에 대한 참조를 확인하세요.
+          with
+          [
+              UnaryOp=Eigen::internal::scalar_isnan_op<float>,
+              XprType=Eigen::ArrayWrapper<const Eigen::Matrix<float,3,1,0,3,1>>,
+              Derived=Eigen::Matrix<float,3,1,0,3,1>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\BooleanRedux.h(140): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::CwiseUnaryOp<Eigen::internal::scalar_isnan_op<float>,const Derived>'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::ArrayWrapper<const Eigen::Matrix<float,3,1,0,3,1>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\BooleanRedux.h(138): message : 클래스 템플릿 멤버 함수 'bool Eigen::DenseBase<Derived>::hasNaN(void) const'을(를) 컴파일하는 중입니다.
+          with
+          [
+              Derived=Eigen::Matrix<float,3,1,0,3,1>
+          ]
+C:\work\octopus\AirLib\src\vehicles\multirotor\api\MultirotorApiBase.cpp(698): message : 컴파일되는 함수 템플릿 인스턴스화 'bool Eigen::DenseBase<Derived>::hasNaN(void) const'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::Matrix<float,3,1,0,3,1>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\MatrixBase.h(50): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::DenseBase<Derived>'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::Matrix<float,3,1,0,3,1>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\PlainObjectBase.h(100): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::MatrixBase<Derived>'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::Matrix<float,3,1,0,3,1>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(461,1): warning C4127: 조건식이 상수입니다.
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(461,1): message : 'if constexpr' 문을 대신 사용해 보세요.
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(460): message : 클래스 템플릿 멤버 함수 'float Eigen::DenseBase<Derived>::sum(void) const'을(를) 컴파일하는 중입니다.
+          with
+          [
+              Derived=Eigen::CwiseBinaryOp<Eigen::internal::scalar_conj_product_op<float,float>,const Eigen::Matrix<float,3,1,0,3,1>,const Eigen::Matrix<float,3,1,0,3,1>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Dot.h(37): message : 컴파일되는 함수 템플릿 인스턴스화 'float Eigen::DenseBase<Derived>::sum(void) const'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::CwiseBinaryOp<Eigen::internal::scalar_conj_product_op<float,float>,const Eigen::Matrix<float,3,1,0,3,1>,const Eigen::Matrix<float,3,1,0,3,1>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\MatrixBase.h(50): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::DenseBase<Derived>'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::CwiseBinaryOp<Eigen::internal::scalar_conj_product_op<float,float>,const Eigen::Matrix<float,3,1,0,3,1>,const Eigen::Matrix<float,3,1,0,3,1>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\CwiseBinaryOp.h(150): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::MatrixBase<Derived>'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::CwiseBinaryOp<Eigen::internal::scalar_conj_product_op<float,float>,const Eigen::Matrix<float,3,1,0,3,1>,const Eigen::Matrix<float,3,1,0,3,1>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\CwiseBinaryOp.h(77): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::CwiseBinaryOpImpl<BinaryOp,LhsType,RhsType,Eigen::internal::cwise_promote_storage_type<Eigen::internal::traits<Derived>::StorageKind,Eigen::internal::traits<Derived>::StorageKind,BinaryOp>::ret>'에 대한 참조를 확인하세요.
+          with
+          [
+              BinaryOp=Eigen::internal::scalar_conj_product_op<float,float>,
+              LhsType=Eigen::Matrix<float,3,1,0,3,1>,
+              RhsType=Eigen::Matrix<float,3,1,0,3,1>,
+              Derived=Eigen::Matrix<float,3,1,0,3,1>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Dot.h(37): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::CwiseBinaryOp<Eigen::internal::scalar_conj_product_op<float,float>,const Derived,const Derived>'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::Matrix<float,3,1,0,3,1>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Dot.h(36): message : 클래스 템플릿 멤버 함수 'float Eigen::internal::dot_nocheck<Derived,OtherDerived,false>::run(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Derived> &)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              Derived=Eigen::Matrix<float,3,1,0,3,1>,
+              OtherDerived=Eigen::Matrix<float,3,1,0,3,1>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Dot.h(84): message : 컴파일되는 함수 템플릿 인스턴스화 'float Eigen::internal::dot_nocheck<Derived,OtherDerived,false>::run(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Derived> &)'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::Matrix<float,3,1,0,3,1>,
+              OtherDerived=Eigen::Matrix<float,3,1,0,3,1>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Dot.h(84): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::internal::dot_nocheck<Derived,OtherDerived,false>'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::Matrix<float,3,1,0,3,1>,
+              OtherDerived=Eigen::Matrix<float,3,1,0,3,1>
+          ]
+C:\work\octopus\AirLib\src\vehicles\multirotor\api\MultirotorApiBase.cpp(371): message : 컴파일되는 함수 템플릿 인스턴스화 'float Eigen::MatrixBase<Derived>::dot<Derived>(const Eigen::MatrixBase<Derived> &) const'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::Matrix<float,3,1,0,3,1>
+          ]
+C:\work\octopus\AirLib\src\vehicles\multirotor\api\MultirotorApiBase.cpp(371): message : 컴파일되는 함수 템플릿 인스턴스화 'float Eigen::MatrixBase<Derived>::dot<Derived>(const Eigen::MatrixBase<Derived> &) const'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::Matrix<float,3,1,0,3,1>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\GenericPacketMath.h(977,1): warning C4127: 조건식이 상수입니다.
+C:\work\octopus\AirLib\include\Eigen\src\Core\GenericPacketMath.h(977,1): message : 'if constexpr' 문을 대신 사용해 보세요.
+C:\work\octopus\AirLib\include\Eigen\src\Geometry\arch\Geometry_SIMD.h(62): message : 컴파일되는 함수 템플릿 인스턴스화 'void Eigen::internal::pstoret<float,Eigen::internal::Packet4f,Eigen::internal::quat_conj<1,Derived,float>::ResAlignment>(Scalar *,const Packet &)'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::Quaternion<float,2>,
+              Scalar=float,
+              Packet=Eigen::internal::Packet4f
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Geometry\arch\Geometry_SIMD.h(56): message : 클래스 템플릿 멤버 함수 'Eigen::Quaternion<float,0> Eigen::internal::quat_conj<1,Derived,float>::run(const Eigen::QuaternionBase<Derived> &)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              Derived=Eigen::Quaternion<float,2>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Geometry\Quaternion.h(753): message : 컴파일되는 함수 템플릿 인스턴스화 'Eigen::Quaternion<float,0> Eigen::internal::quat_conj<1,Derived,float>::run(const Eigen::QuaternionBase<Derived> &)'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::Quaternion<float,2>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Geometry\Quaternion.h(754): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::internal::quat_conj<1,Derived,float>'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::Quaternion<float,2>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Geometry\Quaternion.h(752): message : 클래스 템플릿 멤버 함수 'Eigen::Quaternion<float,0> Eigen::QuaternionBase<Eigen::Quaternion<float,2>>::conjugate(void) const'을(를) 컴파일하는 중입니다.
+C:\work\octopus\AirLib\include\common\VectorMath.hpp(185): message : 컴파일되는 함수 템플릿 인스턴스화 'Eigen::Quaternion<float,0> Eigen::QuaternionBase<Eigen::Quaternion<float,2>>::conjugate(void) const'에 대한 참조를 확인하세요.
+C:\work\octopus\AirLib\include\Eigen\src\Geometry\Quaternion.h(274): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::QuaternionBase<Eigen::Quaternion<float,2>>'에 대한 참조를 확인하세요.
+C:\work\octopus\AirLib\include\common\Common.hpp(67): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::Quaternion<float,2>'에 대한 참조를 확인하세요.
+C:\work\octopus\AirLib\include\Eigen\src\Core\CoreEvaluators.h(204,1): warning C4127: 조건식이 상수입니다.
+C:\work\octopus\AirLib\include\Eigen\src\Core\CoreEvaluators.h(204,1): message : 'if constexpr' 문을 대신 사용해 보세요.
+C:\work\octopus\AirLib\include\Eigen\src\Core\CoreEvaluators.h(203): message : 클래스 템플릿 멤버 함수 'const float &Eigen::internal::evaluator<Eigen::PlainObjectBase<Eigen::Matrix<float,3,1,0,3,1>>>::coeff(Eigen::Index,Eigen::Index) const'을(를) 컴파일하는 중입니다.
+C:\work\octopus\AirLib\include\Eigen\src\Core\CoreEvaluators.h(1398): message : 컴파일되는 함수 템플릿 인스턴스화 'const float &Eigen::internal::evaluator<Eigen::PlainObjectBase<Eigen::Matrix<float,3,1,0,3,1>>>::coeff(Eigen::Index,Eigen::Index) const'에 대한 참조를 확인하세요.
+C:\work\octopus\AirLib\include\Eigen\src\Core\CoreEvaluators.h(275): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::internal::evaluator<Eigen::PlainObjectBase<Eigen::Matrix<float,3,1,0,3,1>>>'에 대한 참조를 확인하세요.
+C:\work\octopus\AirLib\include\Eigen\src\Core\DenseCoeffsBase.h(391): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::internal::evaluator<Derived>'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::Matrix<float,3,1,0,3,1>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\DenseCoeffsBase.h(390): message : 클래스 템플릿 멤버 함수 'float &Eigen::DenseCoeffsBase<Derived,1>::coeffRef(Eigen::EigenBase<Derived>::Index)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              Derived=Eigen::Matrix<float,3,1,0,3,1>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\DenseCoeffsBase.h(411): message : 컴파일되는 함수 템플릿 인스턴스화 'float &Eigen::DenseCoeffsBase<Derived,1>::coeffRef(Eigen::EigenBase<Derived>::Index)'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::Matrix<float,3,1,0,3,1>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\DenseCoeffsBase.h(557): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::DenseCoeffsBase<Derived,1>'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::Matrix<float,3,1,0,3,1>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\DenseBase.h(47): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::DenseCoeffsBase<Derived,3>'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::Matrix<float,3,1,0,3,1>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\PlainObjectBase.h(359,1): warning C4127: 조건식이 상수입니다.
+C:\work\octopus\AirLib\include\Eigen\src\Core\PlainObjectBase.h(359,1): message : 'if constexpr' 문을 대신 사용해 보세요.
+C:\work\octopus\AirLib\include\Eigen\src\Core\PlainObjectBase.h(593): message : 컴파일되는 함수 템플릿 인스턴스화 'void Eigen::PlainObjectBase<Eigen::Matrix<float,3,1,0,3,1>>::resizeLike<Derived>(const Eigen::EigenBase<Derived> &)'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::CwiseNullaryOp<Eigen::internal::scalar_constant_op<float>,Eigen::Matrix<float,3,1,0,3,1>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\PlainObjectBase.h(593): message : 컴파일되는 함수 템플릿 인스턴스화 'void Eigen::PlainObjectBase<Eigen::Matrix<float,3,1,0,3,1>>::resizeLike<Derived>(const Eigen::EigenBase<Derived> &)'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::CwiseNullaryOp<Eigen::internal::scalar_constant_op<float>,Eigen::Matrix<float,3,1,0,3,1>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Matrix.h(424): message : 컴파일되는 함수 템플릿 인스턴스화 'Eigen::PlainObjectBase<Eigen::Matrix<float,3,1,0,3,1>>::PlainObjectBase<Derived>(const Eigen::DenseBase<Derived> &)'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::CwiseNullaryOp<Eigen::internal::scalar_constant_op<float>,Eigen::Matrix<float,3,1,0,3,1>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Matrix.h(423): message : 컴파일되는 함수 템플릿 인스턴스화 'Eigen::PlainObjectBase<Eigen::Matrix<float,3,1,0,3,1>>::PlainObjectBase<Derived>(const Eigen::DenseBase<Derived> &)'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::CwiseNullaryOp<Eigen::internal::scalar_constant_op<float>,Eigen::Matrix<float,3,1,0,3,1>>
+          ]
+C:\work\octopus\AirLib\include\common\CommonStructs.hpp(26): message : 컴파일되는 함수 템플릿 인스턴스화 'Eigen::Matrix<float,3,1,0,3,1>::Matrix<Derived>(const Eigen::EigenBase<Derived> &)'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::CwiseNullaryOp<Eigen::internal::scalar_constant_op<float>,Eigen::Matrix<float,3,1,0,3,1>>
+          ]
+C:\work\octopus\AirLib\include\common\CommonStructs.hpp(26): message : 컴파일되는 함수 템플릿 인스턴스화 'Eigen::Matrix<float,3,1,0,3,1>::Matrix<Derived>(const Eigen::EigenBase<Derived> &)'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::CwiseNullaryOp<Eigen::internal::scalar_constant_op<float>,Eigen::Matrix<float,3,1,0,3,1>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\PlainObjectBase.h(364,1): warning C4127: 조건식이 상수입니다.
+C:\work\octopus\AirLib\include\Eigen\src\Core\PlainObjectBase.h(364,1): message : 'if constexpr' 문을 대신 사용해 보세요.
+C:\work\octopus\AirLib\include\Eigen\src\Core\GenericPacketMath.h(966,1): warning C4127: 조건식이 상수입니다.
+C:\work\octopus\AirLib\include\Eigen\src\Core\GenericPacketMath.h(966,1): message : 'if constexpr' 문을 대신 사용해 보세요.
+C:\work\octopus\AirLib\include\Eigen\src\Core\CoreEvaluators.h(245): message : 컴파일되는 함수 템플릿 인스턴스화 'Packet Eigen::internal::ploadt<PacketType,0>(const Eigen::internal::unpacket_traits<Eigen::internal::Packet4f>::type *)'에 대한 참조를 확인하세요.
+          with
+          [
+              Packet=Eigen::internal::Packet4f,
+              PacketType=Eigen::internal::Packet4f
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Geometry\arch\Geometry_SIMD.h(62): message : 컴파일되는 함수 템플릿 인스턴스화 'PacketType Eigen::internal::evaluator<Eigen::PlainObjectBase<Eigen::Matrix<_Scalar,4,1,2,4,1>>>::packet<Eigen::internal::traits<Derived>::Alignment,Eigen::internal::Packet4f>(Eigen::Index) const'에 대한 참조를 확인하세요.
+          with
+          [
+              PacketType=Eigen::internal::Packet4f,
+              _Scalar=float,
+              Derived=Eigen::Quaternion<float,2>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Geometry\arch\Geometry_SIMD.h(62): message : 컴파일되는 함수 템플릿 인스턴스화 'PacketType Eigen::internal::evaluator<Eigen::PlainObjectBase<Eigen::Matrix<_Scalar,4,1,2,4,1>>>::packet<Eigen::internal::traits<Derived>::Alignment,Eigen::internal::Packet4f>(Eigen::Index) const'에 대한 참조를 확인하세요.
+          with
+          [
+              PacketType=Eigen::internal::Packet4f,
+              _Scalar=float,
+              Derived=Eigen::Quaternion<float,2>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(343,1): warning C4127: 조건식이 상수입니다.
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(343,1): message : 'if constexpr' 문을 대신 사용해 보세요.
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(418): message : 컴파일되는 함수 템플릿 인스턴스화 'float Eigen::internal::redux_impl<Func,ThisEvaluator,3,2>::run<Derived>(const Evaluator &,const Func &,const XprType &)'에 대한 참조를 확인하세요.
+          with
+          [
+              Func=Eigen::internal::scalar_sum_op<float,float>,
+              Derived=Eigen::CwiseBinaryOp<Eigen::internal::scalar_conj_product_op<float,float>,const Eigen::Matrix<float,3,1,0,3,1>,const Eigen::Matrix<float,3,1,0,3,1>>,
+              Evaluator=ThisEvaluator,
+              XprType=Eigen::CwiseBinaryOp<Eigen::internal::scalar_conj_product_op<float,float>,const Eigen::Matrix<float,3,1,0,3,1>,const Eigen::Matrix<float,3,1,0,3,1>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(418): message : 컴파일되는 함수 템플릿 인스턴스화 'float Eigen::internal::redux_impl<Func,ThisEvaluator,3,2>::run<Derived>(const Evaluator &,const Func &,const XprType &)'에 대한 참조를 확인하세요.
+          with
+          [
+              Func=Eigen::internal::scalar_sum_op<float,float>,
+              Derived=Eigen::CwiseBinaryOp<Eigen::internal::scalar_conj_product_op<float,float>,const Eigen::Matrix<float,3,1,0,3,1>,const Eigen::Matrix<float,3,1,0,3,1>>,
+              Evaluator=ThisEvaluator,
+              XprType=Eigen::CwiseBinaryOp<Eigen::internal::scalar_conj_product_op<float,float>,const Eigen::Matrix<float,3,1,0,3,1>,const Eigen::Matrix<float,3,1,0,3,1>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(463): message : 컴파일되는 함수 템플릿 인스턴스화 'float Eigen::DenseBase<Derived>::redux<Eigen::internal::scalar_sum_op<float,_Scalar>>(const Func &) const'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::CwiseBinaryOp<Eigen::internal::scalar_conj_product_op<float,float>,const Eigen::Matrix<float,3,1,0,3,1>,const Eigen::Matrix<float,3,1,0,3,1>>,
+              _Scalar=float,
+              Func=Eigen::internal::scalar_sum_op<float,float>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(463): message : 컴파일되는 함수 템플릿 인스턴스화 'float Eigen::DenseBase<Derived>::redux<Eigen::internal::scalar_sum_op<float,_Scalar>>(const Func &) const'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::CwiseBinaryOp<Eigen::internal::scalar_conj_product_op<float,float>,const Eigen::Matrix<float,3,1,0,3,1>,const Eigen::Matrix<float,3,1,0,3,1>>,
+              _Scalar=float,
+              Func=Eigen::internal::scalar_sum_op<float,float>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(460): message : 클래스 템플릿 멤버 함수 'float Eigen::DenseBase<Derived>::sum(void) const'을(를) 컴파일하는 중입니다.
+          with
+          [
+              Derived=Eigen::CwiseBinaryOp<Eigen::internal::scalar_conj_product_op<float,float>,const Eigen::Matrix<float,3,1,0,3,1>,const Eigen::Matrix<float,3,1,0,3,1>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Dot.h(37): message : 컴파일되는 함수 템플릿 인스턴스화 'float Eigen::DenseBase<Derived>::sum(void) const'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::CwiseBinaryOp<Eigen::internal::scalar_conj_product_op<float,float>,const Eigen::Matrix<float,3,1,0,3,1>,const Eigen::Matrix<float,3,1,0,3,1>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(345,1): warning C4127: 조건식이 상수입니다.
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(345,1): message : 'if constexpr' 문을 대신 사용해 보세요.
+C:\work\octopus\AirLib\include\Eigen\src\Core\CoreEvaluators.h(219,1): warning C4127: 조건식이 상수입니다.
+C:\work\octopus\AirLib\include\Eigen\src\Core\CoreEvaluators.h(219,1): message : 'if constexpr' 문을 대신 사용해 보세요.
+C:\work\octopus\AirLib\include\Eigen\src\Core\CoreEvaluators.h(218): message : 클래스 템플릿 멤버 함수 'float &Eigen::internal::evaluator<Eigen::PlainObjectBase<Eigen::Matrix<float,3,1,0,3,1>>>::coeffRef(Eigen::Index,Eigen::Index)'을(를) 컴파일하는 중입니다.
+C:\work\octopus\AirLib\include\Eigen\src\Core\AssignEvaluator.h(654): message : 컴파일되는 함수 템플릿 인스턴스화 'float &Eigen::internal::evaluator<Eigen::PlainObjectBase<Eigen::Matrix<float,3,1,0,3,1>>>::coeffRef(Eigen::Index,Eigen::Index)'에 대한 참조를 확인하세요.
+C:\work\octopus\AirLib\include\Eigen\src\Core\CoreEvaluators.h(235,1): warning C4127: 조건식이 상수입니다.
+C:\work\octopus\AirLib\include\Eigen\src\Core\CoreEvaluators.h(235,1): message : 'if constexpr' 문을 대신 사용해 보세요.
+C:\work\octopus\AirLib\include\Eigen\src\Core\CoreEvaluators.h(596): message : 컴파일되는 함수 템플릿 인스턴스화 'PacketType Eigen::internal::evaluator<Eigen::PlainObjectBase<Eigen::Matrix<_Scalar,4,1,2,4,1>>>::packet<0,PacketType>(Eigen::Index,Eigen::Index) const'에 대한 참조를 확인하세요.
+          with
+          [
+              PacketType=__m128,
+              _Scalar=float
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\CoreEvaluators.h(596): message : 컴파일되는 함수 템플릿 인스턴스화 'PacketType Eigen::internal::evaluator<Eigen::PlainObjectBase<Eigen::Matrix<_Scalar,4,1,2,4,1>>>::packet<0,PacketType>(Eigen::Index,Eigen::Index) const'에 대한 참조를 확인하세요.
+          with
+          [
+              PacketType=__m128,
+              _Scalar=float
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(386): message : 컴파일되는 함수 템플릿 인스턴스화 'PacketType Eigen::internal::unary_evaluator<T,Eigen::internal::IndexBased,float>::packet<0,PacketType>(Eigen::Index,Eigen::Index) const'에 대한 참조를 확인하세요.
+          with
+          [
+              PacketType=__m128,
+              T=Eigen::CwiseUnaryOp<Eigen::internal::scalar_abs2_op<float>,const Eigen::Matrix<float,4,1,2,4,1>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(386): message : 컴파일되는 함수 템플릿 인스턴스화 'PacketType Eigen::internal::unary_evaluator<T,Eigen::internal::IndexBased,float>::packet<0,PacketType>(Eigen::Index,Eigen::Index) const'에 대한 참조를 확인하세요.
+          with
+          [
+              PacketType=__m128,
+              T=Eigen::CwiseUnaryOp<Eigen::internal::scalar_abs2_op<float>,const Eigen::Matrix<float,4,1,2,4,1>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(177): message : 컴파일되는 함수 템플릿 인스턴스화 'PacketType Eigen::internal::redux_evaluator<Derived>::packetByOuterInner<Eigen::internal::redux_vec_unroller<Func,Evaluator,0,1>::run::index,PacketType>(Eigen::Index,Eigen::Index) const'에 대한 참조를 확인하세요.
+          with
+          [
+              PacketType=__m128,
+              Derived=Eigen::CwiseUnaryOp<Eigen::internal::scalar_abs2_op<float>,const Eigen::Matrix<float,4,1,2,4,1>>,
+              Func=Eigen::internal::scalar_sum_op<float,float>,
+              Evaluator=ThisEvaluator
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(177): message : 컴파일되는 함수 템플릿 인스턴스화 'PacketType Eigen::internal::redux_evaluator<Derived>::packetByOuterInner<Eigen::internal::redux_vec_unroller<Func,Evaluator,0,1>::run::index,PacketType>(Eigen::Index,Eigen::Index) const'에 대한 참조를 확인하세요.
+          with
+          [
+              PacketType=__m128,
+              Derived=Eigen::CwiseUnaryOp<Eigen::internal::scalar_abs2_op<float>,const Eigen::Matrix<float,4,1,2,4,1>>,
+              Func=Eigen::internal::scalar_sum_op<float,float>,
+              Evaluator=ThisEvaluator
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(344): message : 컴파일되는 함수 템플릿 인스턴스화 'PacketType Eigen::internal::redux_vec_unroller<Func,Evaluator,0,1>::run<__m128>(const Evaluator &,const Func &)'에 대한 참조를 확인하세요.
+          with
+          [
+              PacketType=__m128,
+              Func=Eigen::internal::scalar_sum_op<float,float>,
+              Evaluator=ThisEvaluator
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(344): message : 컴파일되는 함수 템플릿 인스턴스화 'PacketType Eigen::internal::redux_vec_unroller<Func,Evaluator,0,1>::run<__m128>(const Evaluator &,const Func &)'에 대한 참조를 확인하세요.
+          with
+          [
+              PacketType=__m128,
+              Func=Eigen::internal::scalar_sum_op<float,float>,
+              Evaluator=ThisEvaluator
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(418): message : 컴파일되는 함수 템플릿 인스턴스화 'float Eigen::internal::redux_impl<Func,ThisEvaluator,3,2>::run<Derived>(const Evaluator &,const Func &,const XprType &)'에 대한 참조를 확인하세요.
+          with
+          [
+              Func=Eigen::internal::scalar_sum_op<float,float>,
+              Derived=Eigen::CwiseUnaryOp<Eigen::internal::scalar_abs2_op<float>,const Eigen::Matrix<float,4,1,2,4,1>>,
+              Evaluator=ThisEvaluator,
+              XprType=Eigen::CwiseUnaryOp<Eigen::internal::scalar_abs2_op<float>,const Eigen::Matrix<float,4,1,2,4,1>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(418): message : 컴파일되는 함수 템플릿 인스턴스화 'float Eigen::internal::redux_impl<Func,ThisEvaluator,3,2>::run<Derived>(const Evaluator &,const Func &,const XprType &)'에 대한 참조를 확인하세요.
+          with
+          [
+              Func=Eigen::internal::scalar_sum_op<float,float>,
+              Derived=Eigen::CwiseUnaryOp<Eigen::internal::scalar_abs2_op<float>,const Eigen::Matrix<float,4,1,2,4,1>>,
+              Evaluator=ThisEvaluator,
+              XprType=Eigen::CwiseUnaryOp<Eigen::internal::scalar_abs2_op<float>,const Eigen::Matrix<float,4,1,2,4,1>>
+          ]
+  ObstacleMap.cpp
+C:\work\octopus\AirLib\include\Eigen\src\Core\arch\Default\Half.h(1,1): error C2220: 다음 경고는 오류로 처리됩니다.
+C:\work\octopus\AirLib\include\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\work\octopus\AirLib\include\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\work\octopus\AirLib\include\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\work\octopus\AirLib\include\Eigen\src\Core\products\GeneralBlockPanelKernel.h(2063,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  SafetyEval.cpp
+C:\work\octopus\AirLib\include\Eigen\src\Core\arch\Default\Half.h(1,1): error C2220: 다음 경고는 오류로 처리됩니다.
+C:\work\octopus\AirLib\include\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\work\octopus\AirLib\include\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\work\octopus\AirLib\include\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\work\octopus\AirLib\include\Eigen\src\Core\products\GeneralBlockPanelKernel.h(2063,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\work\octopus\AirLib\include\Eigen\src\Core\BooleanRedux.h(111,1): warning C4127: 조건식이 상수입니다.
+C:\work\octopus\AirLib\include\Eigen\src\Core\BooleanRedux.h(111,1): message : 'if constexpr' 문을 대신 사용해 보세요.
+C:\work\octopus\AirLib\include\Eigen\src\Core\BooleanRedux.h(104): message : 클래스 템플릿 멤버 함수 'bool Eigen::DenseBase<Derived>::any(void) const'을(를) 컴파일하는 중입니다.
+          with
+          [
+              Derived=Eigen::CwiseUnaryOp<Eigen::internal::scalar_isnan_op<float>,const Eigen::ArrayWrapper<const Eigen::Matrix<float,3,1,0,3,1>>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\BooleanRedux.h(140): message : 컴파일되는 함수 템플릿 인스턴스화 'bool Eigen::DenseBase<Derived>::any(void) const'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::CwiseUnaryOp<Eigen::internal::scalar_isnan_op<float>,const Eigen::ArrayWrapper<const Eigen::Matrix<float,3,1,0,3,1>>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\ArrayBase.h(41): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::DenseBase<Derived>'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::CwiseUnaryOp<Eigen::internal::scalar_isnan_op<float>,const Eigen::ArrayWrapper<const Eigen::Matrix<float,3,1,0,3,1>>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\CwiseUnaryOp.h(96): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::ArrayBase<Derived>'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::CwiseUnaryOp<Eigen::internal::scalar_isnan_op<float>,const Eigen::ArrayWrapper<const Eigen::Matrix<float,3,1,0,3,1>>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\CwiseUnaryOp.h(55): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::CwiseUnaryOpImpl<UnaryOp,XprType,Eigen::internal::traits<Derived>::StorageKind>'에 대한 참조를 확인하세요.
+          with
+          [
+              UnaryOp=Eigen::internal::scalar_isnan_op<float>,
+              XprType=Eigen::ArrayWrapper<const Eigen::Matrix<float,3,1,0,3,1>>,
+              Derived=Eigen::Matrix<float,3,1,0,3,1>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\BooleanRedux.h(140): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::CwiseUnaryOp<Eigen::internal::scalar_isnan_op<float>,const Derived>'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::ArrayWrapper<const Eigen::Matrix<float,3,1,0,3,1>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\BooleanRedux.h(138): message : 클래스 템플릿 멤버 함수 'bool Eigen::DenseBase<Derived>::hasNaN(void) const'을(를) 컴파일하는 중입니다.
+          with
+          [
+              Derived=Eigen::Matrix<float,3,1,0,3,1>
+          ]
+C:\work\octopus\AirLib\src\safety\SafetyEval.cpp(232): message : 컴파일되는 함수 템플릿 인스턴스화 'bool Eigen::DenseBase<Derived>::hasNaN(void) const'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::Matrix<float,3,1,0,3,1>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\MatrixBase.h(50): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::DenseBase<Derived>'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::Matrix<float,3,1,0,3,1>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\PlainObjectBase.h(100): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::MatrixBase<Derived>'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::Matrix<float,3,1,0,3,1>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Matrix.h(180): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::PlainObjectBase<Eigen::Matrix<float,3,1,0,3,1>>'에 대한 참조를 확인하세요.
+C:\work\octopus\AirLib\include\common\Common.hpp(71): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::Matrix<float,3,1,0,3,1>'에 대한 참조를 확인하세요.
+C:\work\octopus\AirLib\include\Eigen\src\Core\GenericPacketMath.h(977,1): warning C4127: 조건식이 상수입니다.
+C:\work\octopus\AirLib\include\Eigen\src\Core\GenericPacketMath.h(977,1): message : 'if constexpr' 문을 대신 사용해 보세요.
+C:\work\octopus\AirLib\include\Eigen\src\Geometry\arch\Geometry_SIMD.h(62): message : 컴파일되는 함수 템플릿 인스턴스화 'void Eigen::internal::pstoret<float,Eigen::internal::Packet4f,Eigen::internal::quat_conj<1,Derived,float>::ResAlignment>(Scalar *,const Packet &)'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::Quaternion<float,2>,
+              Scalar=float,
+              Packet=Eigen::internal::Packet4f
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Geometry\arch\Geometry_SIMD.h(56): message : 클래스 템플릿 멤버 함수 'Eigen::Quaternion<float,0> Eigen::internal::quat_conj<1,Derived,float>::run(const Eigen::QuaternionBase<Derived> &)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              Derived=Eigen::Quaternion<float,2>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Geometry\Quaternion.h(753): message : 컴파일되는 함수 템플릿 인스턴스화 'Eigen::Quaternion<float,0> Eigen::internal::quat_conj<1,Derived,float>::run(const Eigen::QuaternionBase<Derived> &)'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::Quaternion<float,2>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Geometry\Quaternion.h(754): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::internal::quat_conj<1,Derived,float>'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::Quaternion<float,2>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Geometry\Quaternion.h(752): message : 클래스 템플릿 멤버 함수 'Eigen::Quaternion<float,0> Eigen::QuaternionBase<Eigen::Quaternion<float,2>>::conjugate(void) const'을(를) 컴파일하는 중입니다.
+C:\work\octopus\AirLib\include\common\VectorMath.hpp(185): message : 컴파일되는 함수 템플릿 인스턴스화 'Eigen::Quaternion<float,0> Eigen::QuaternionBase<Eigen::Quaternion<float,2>>::conjugate(void) const'에 대한 참조를 확인하세요.
+C:\work\octopus\AirLib\include\Eigen\src\Geometry\Quaternion.h(274): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::QuaternionBase<Eigen::Quaternion<float,2>>'에 대한 참조를 확인하세요.
+C:\work\octopus\AirLib\include\common\Common.hpp(67): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::Quaternion<float,2>'에 대한 참조를 확인하세요.
+C:\work\octopus\AirLib\include\Eigen\src\Core\CoreEvaluators.h(204,1): warning C4127: 조건식이 상수입니다.
+C:\work\octopus\AirLib\include\Eigen\src\Core\CoreEvaluators.h(204,1): message : 'if constexpr' 문을 대신 사용해 보세요.
+C:\work\octopus\AirLib\include\Eigen\src\Core\CoreEvaluators.h(203): message : 클래스 템플릿 멤버 함수 'const float &Eigen::internal::evaluator<Eigen::PlainObjectBase<Eigen::Matrix<float,3,1,0,3,1>>>::coeff(Eigen::Index,Eigen::Index) const'을(를) 컴파일하는 중입니다.
+C:\work\octopus\AirLib\include\Eigen\src\Core\CoreEvaluators.h(1398): message : 컴파일되는 함수 템플릿 인스턴스화 'const float &Eigen::internal::evaluator<Eigen::PlainObjectBase<Eigen::Matrix<float,3,1,0,3,1>>>::coeff(Eigen::Index,Eigen::Index) const'에 대한 참조를 확인하세요.
+C:\work\octopus\AirLib\include\Eigen\src\Core\CoreEvaluators.h(275): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::internal::evaluator<Eigen::PlainObjectBase<Eigen::Matrix<float,3,1,0,3,1>>>'에 대한 참조를 확인하세요.
+C:\work\octopus\AirLib\include\Eigen\src\Core\DenseCoeffsBase.h(391): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::internal::evaluator<Derived>'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::Matrix<float,3,1,0,3,1>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\DenseCoeffsBase.h(390): message : 클래스 템플릿 멤버 함수 'float &Eigen::DenseCoeffsBase<Derived,1>::coeffRef(Eigen::EigenBase<Derived>::Index)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              Derived=Eigen::Matrix<float,3,1,0,3,1>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\DenseCoeffsBase.h(411): message : 컴파일되는 함수 템플릿 인스턴스화 'float &Eigen::DenseCoeffsBase<Derived,1>::coeffRef(Eigen::EigenBase<Derived>::Index)'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::Matrix<float,3,1,0,3,1>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\DenseCoeffsBase.h(557): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::DenseCoeffsBase<Derived,1>'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::Matrix<float,3,1,0,3,1>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\DenseBase.h(47): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::DenseCoeffsBase<Derived,3>'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::Matrix<float,3,1,0,3,1>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(461,1): warning C4127: 조건식이 상수입니다.
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(461,1): message : 'if constexpr' 문을 대신 사용해 보세요.
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(460): message : 클래스 템플릿 멤버 함수 'float Eigen::DenseBase<Derived>::sum(void) const'을(를) 컴파일하는 중입니다.
+          with
+          [
+              Derived=Eigen::CwiseUnaryOp<Eigen::internal::scalar_abs2_op<float>,const Eigen::Matrix<float,4,1,2,4,1>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Dot.h(98): message : 컴파일되는 함수 템플릿 인스턴스화 'float Eigen::DenseBase<Derived>::sum(void) const'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::CwiseUnaryOp<Eigen::internal::scalar_abs2_op<float>,const Eigen::Matrix<float,4,1,2,4,1>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\MatrixBase.h(50): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::DenseBase<Derived>'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::CwiseUnaryOp<Eigen::internal::scalar_abs2_op<float>,const Eigen::Matrix<float,4,1,2,4,1>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\CwiseUnaryOp.h(96): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::MatrixBase<Derived>'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::CwiseUnaryOp<Eigen::internal::scalar_abs2_op<float>,const Eigen::Matrix<float,4,1,2,4,1>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\CwiseUnaryOp.h(55): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::CwiseUnaryOpImpl<UnaryOp,XprType,Eigen::internal::traits<Eigen::Matrix<_Scalar,4,1,2,4,1>>::StorageKind>'에 대한 참조를 확인하세요.
+          with
+          [
+              UnaryOp=Eigen::internal::scalar_abs2_op<float>,
+              XprType=Eigen::Matrix<float,4,1,2,4,1>,
+              _Scalar=float
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Dot.h(98): message : 컴파일되는 클래스 템플릿 인스턴스화 'Eigen::CwiseUnaryOp<Eigen::internal::scalar_abs2_op<float>,const Derived>'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::Matrix<float,4,1,2,4,1>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Dot.h(97): message : 클래스 템플릿 멤버 함수 'float Eigen::MatrixBase<Derived>::squaredNorm(void) const'을(를) 컴파일하는 중입니다.
+          with
+          [
+              Derived=Eigen::Matrix<float,4,1,2,4,1>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Geometry\Quaternion.h(120): message : 컴파일되는 함수 템플릿 인스턴스화 'float Eigen::MatrixBase<Derived>::squaredNorm(void) const'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::Matrix<float,4,1,2,4,1>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Geometry\Quaternion.h(120): message : 클래스 템플릿 멤버 함수 'float Eigen::QuaternionBase<Eigen::Quaternion<float,2>>::squaredNorm(void) const'을(를) 컴파일하는 중입니다.
+C:\work\octopus\AirLib\include\Eigen\src\Geometry\Quaternion.h(723): message : 컴파일되는 함수 템플릿 인스턴스화 'float Eigen::QuaternionBase<Eigen::Quaternion<float,2>>::squaredNorm(void) const'에 대한 참조를 확인하세요.
+C:\work\octopus\AirLib\include\Eigen\src\Core\PlainObjectBase.h(359,1): warning C4127: 조건식이 상수입니다.
+C:\work\octopus\AirLib\include\Eigen\src\Core\PlainObjectBase.h(359,1): message : 'if constexpr' 문을 대신 사용해 보세요.
+C:\work\octopus\AirLib\include\Eigen\src\Core\PlainObjectBase.h(593): message : 컴파일되는 함수 템플릿 인스턴스화 'void Eigen::PlainObjectBase<Eigen::Matrix<float,3,1,0,3,1>>::resizeLike<Derived>(const Eigen::EigenBase<Derived> &)'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::CwiseNullaryOp<Eigen::internal::scalar_constant_op<float>,Eigen::Matrix<float,3,1,0,3,1>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\PlainObjectBase.h(593): message : 컴파일되는 함수 템플릿 인스턴스화 'void Eigen::PlainObjectBase<Eigen::Matrix<float,3,1,0,3,1>>::resizeLike<Derived>(const Eigen::EigenBase<Derived> &)'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::CwiseNullaryOp<Eigen::internal::scalar_constant_op<float>,Eigen::Matrix<float,3,1,0,3,1>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Matrix.h(424): message : 컴파일되는 함수 템플릿 인스턴스화 'Eigen::PlainObjectBase<Eigen::Matrix<float,3,1,0,3,1>>::PlainObjectBase<Derived>(const Eigen::DenseBase<Derived> &)'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::CwiseNullaryOp<Eigen::internal::scalar_constant_op<float>,Eigen::Matrix<float,3,1,0,3,1>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Matrix.h(423): message : 컴파일되는 함수 템플릿 인스턴스화 'Eigen::PlainObjectBase<Eigen::Matrix<float,3,1,0,3,1>>::PlainObjectBase<Derived>(const Eigen::DenseBase<Derived> &)'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::CwiseNullaryOp<Eigen::internal::scalar_constant_op<float>,Eigen::Matrix<float,3,1,0,3,1>>
+          ]
+C:\work\octopus\AirLib\include\common\CommonStructs.hpp(26): message : 컴파일되는 함수 템플릿 인스턴스화 'Eigen::Matrix<float,3,1,0,3,1>::Matrix<Derived>(const Eigen::EigenBase<Derived> &)'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::CwiseNullaryOp<Eigen::internal::scalar_constant_op<float>,Eigen::Matrix<float,3,1,0,3,1>>
+          ]
+C:\work\octopus\AirLib\include\common\CommonStructs.hpp(26): message : 컴파일되는 함수 템플릿 인스턴스화 'Eigen::Matrix<float,3,1,0,3,1>::Matrix<Derived>(const Eigen::EigenBase<Derived> &)'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::CwiseNullaryOp<Eigen::internal::scalar_constant_op<float>,Eigen::Matrix<float,3,1,0,3,1>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\PlainObjectBase.h(364,1): warning C4127: 조건식이 상수입니다.
+C:\work\octopus\AirLib\include\Eigen\src\Core\PlainObjectBase.h(364,1): message : 'if constexpr' 문을 대신 사용해 보세요.
+C:\work\octopus\AirLib\include\Eigen\src\Core\GenericPacketMath.h(966,1): warning C4127: 조건식이 상수입니다.
+C:\work\octopus\AirLib\include\Eigen\src\Core\GenericPacketMath.h(966,1): message : 'if constexpr' 문을 대신 사용해 보세요.
+C:\work\octopus\AirLib\include\Eigen\src\Core\CoreEvaluators.h(245): message : 컴파일되는 함수 템플릿 인스턴스화 'Packet Eigen::internal::ploadt<PacketType,0>(const Eigen::internal::unpacket_traits<Eigen::internal::Packet4f>::type *)'에 대한 참조를 확인하세요.
+          with
+          [
+              Packet=Eigen::internal::Packet4f,
+              PacketType=Eigen::internal::Packet4f
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Geometry\arch\Geometry_SIMD.h(62): message : 컴파일되는 함수 템플릿 인스턴스화 'PacketType Eigen::internal::evaluator<Eigen::PlainObjectBase<Eigen::Matrix<_Scalar,4,1,2,4,1>>>::packet<Eigen::internal::traits<Derived>::Alignment,Eigen::internal::Packet4f>(Eigen::Index) const'에 대한 참조를 확인하세요.
+          with
+          [
+              PacketType=Eigen::internal::Packet4f,
+              _Scalar=float,
+              Derived=Eigen::Quaternion<float,2>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Geometry\arch\Geometry_SIMD.h(62): message : 컴파일되는 함수 템플릿 인스턴스화 'PacketType Eigen::internal::evaluator<Eigen::PlainObjectBase<Eigen::Matrix<_Scalar,4,1,2,4,1>>>::packet<Eigen::internal::traits<Derived>::Alignment,Eigen::internal::Packet4f>(Eigen::Index) const'에 대한 참조를 확인하세요.
+          with
+          [
+              PacketType=Eigen::internal::Packet4f,
+              _Scalar=float,
+              Derived=Eigen::Quaternion<float,2>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\CoreEvaluators.h(219,1): warning C4127: 조건식이 상수입니다.
+C:\work\octopus\AirLib\include\Eigen\src\Core\CoreEvaluators.h(219,1): message : 'if constexpr' 문을 대신 사용해 보세요.
+C:\work\octopus\AirLib\include\Eigen\src\Core\CoreEvaluators.h(218): message : 클래스 템플릿 멤버 함수 'float &Eigen::internal::evaluator<Eigen::PlainObjectBase<Eigen::Matrix<float,3,1,0,3,1>>>::coeffRef(Eigen::Index,Eigen::Index)'을(를) 컴파일하는 중입니다.
+C:\work\octopus\AirLib\include\Eigen\src\Core\AssignEvaluator.h(654): message : 컴파일되는 함수 템플릿 인스턴스화 'float &Eigen::internal::evaluator<Eigen::PlainObjectBase<Eigen::Matrix<float,3,1,0,3,1>>>::coeffRef(Eigen::Index,Eigen::Index)'에 대한 참조를 확인하세요.
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(343,1): warning C4127: 조건식이 상수입니다.
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(343,1): message : 'if constexpr' 문을 대신 사용해 보세요.
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(418): message : 컴파일되는 함수 템플릿 인스턴스화 'float Eigen::internal::redux_impl<Func,ThisEvaluator,3,2>::run<Derived>(const Evaluator &,const Func &,const XprType &)'에 대한 참조를 확인하세요.
+          with
+          [
+              Func=Eigen::internal::scalar_sum_op<float,float>,
+              Derived=Eigen::CwiseUnaryOp<Eigen::internal::scalar_abs2_op<float>,const Eigen::Matrix<float,4,1,2,4,1>>,
+              Evaluator=ThisEvaluator,
+              XprType=Eigen::CwiseUnaryOp<Eigen::internal::scalar_abs2_op<float>,const Eigen::Matrix<float,4,1,2,4,1>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(418): message : 컴파일되는 함수 템플릿 인스턴스화 'float Eigen::internal::redux_impl<Func,ThisEvaluator,3,2>::run<Derived>(const Evaluator &,const Func &,const XprType &)'에 대한 참조를 확인하세요.
+          with
+          [
+              Func=Eigen::internal::scalar_sum_op<float,float>,
+              Derived=Eigen::CwiseUnaryOp<Eigen::internal::scalar_abs2_op<float>,const Eigen::Matrix<float,4,1,2,4,1>>,
+              Evaluator=ThisEvaluator,
+              XprType=Eigen::CwiseUnaryOp<Eigen::internal::scalar_abs2_op<float>,const Eigen::Matrix<float,4,1,2,4,1>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(463): message : 컴파일되는 함수 템플릿 인스턴스화 'float Eigen::DenseBase<Derived>::redux<Eigen::internal::scalar_sum_op<float,_Scalar>>(const Func &) const'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::CwiseUnaryOp<Eigen::internal::scalar_abs2_op<float>,const Eigen::Matrix<float,4,1,2,4,1>>,
+              _Scalar=float,
+              Func=Eigen::internal::scalar_sum_op<float,float>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(463): message : 컴파일되는 함수 템플릿 인스턴스화 'float Eigen::DenseBase<Derived>::redux<Eigen::internal::scalar_sum_op<float,_Scalar>>(const Func &) const'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::CwiseUnaryOp<Eigen::internal::scalar_abs2_op<float>,const Eigen::Matrix<float,4,1,2,4,1>>,
+              _Scalar=float,
+              Func=Eigen::internal::scalar_sum_op<float,float>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(460): message : 클래스 템플릿 멤버 함수 'float Eigen::DenseBase<Derived>::sum(void) const'을(를) 컴파일하는 중입니다.
+          with
+          [
+              Derived=Eigen::CwiseUnaryOp<Eigen::internal::scalar_abs2_op<float>,const Eigen::Matrix<float,4,1,2,4,1>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Dot.h(98): message : 컴파일되는 함수 템플릿 인스턴스화 'float Eigen::DenseBase<Derived>::sum(void) const'에 대한 참조를 확인하세요.
+          with
+          [
+              Derived=Eigen::CwiseUnaryOp<Eigen::internal::scalar_abs2_op<float>,const Eigen::Matrix<float,4,1,2,4,1>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(345,1): warning C4127: 조건식이 상수입니다.
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(345,1): message : 'if constexpr' 문을 대신 사용해 보세요.
+C:\work\octopus\AirLib\include\Eigen\src\Core\CoreEvaluators.h(235,1): warning C4127: 조건식이 상수입니다.
+C:\work\octopus\AirLib\include\Eigen\src\Core\CoreEvaluators.h(235,1): message : 'if constexpr' 문을 대신 사용해 보세요.
+C:\work\octopus\AirLib\include\Eigen\src\Core\CoreEvaluators.h(596): message : 컴파일되는 함수 템플릿 인스턴스화 'PacketType Eigen::internal::evaluator<Eigen::PlainObjectBase<Eigen::Matrix<_Scalar,4,1,2,4,1>>>::packet<0,PacketType>(Eigen::Index,Eigen::Index) const'에 대한 참조를 확인하세요.
+          with
+          [
+              PacketType=__m128,
+              _Scalar=float
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\CoreEvaluators.h(596): message : 컴파일되는 함수 템플릿 인스턴스화 'PacketType Eigen::internal::evaluator<Eigen::PlainObjectBase<Eigen::Matrix<_Scalar,4,1,2,4,1>>>::packet<0,PacketType>(Eigen::Index,Eigen::Index) const'에 대한 참조를 확인하세요.
+          with
+          [
+              PacketType=__m128,
+              _Scalar=float
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(386): message : 컴파일되는 함수 템플릿 인스턴스화 'PacketType Eigen::internal::unary_evaluator<T,Eigen::internal::IndexBased,float>::packet<0,PacketType>(Eigen::Index,Eigen::Index) const'에 대한 참조를 확인하세요.
+          with
+          [
+              PacketType=__m128,
+              T=Eigen::CwiseUnaryOp<Eigen::internal::scalar_abs2_op<float>,const Eigen::Matrix<float,4,1,2,4,1>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(386): message : 컴파일되는 함수 템플릿 인스턴스화 'PacketType Eigen::internal::unary_evaluator<T,Eigen::internal::IndexBased,float>::packet<0,PacketType>(Eigen::Index,Eigen::Index) const'에 대한 참조를 확인하세요.
+          with
+          [
+              PacketType=__m128,
+              T=Eigen::CwiseUnaryOp<Eigen::internal::scalar_abs2_op<float>,const Eigen::Matrix<float,4,1,2,4,1>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(177): message : 컴파일되는 함수 템플릿 인스턴스화 'PacketType Eigen::internal::redux_evaluator<Derived>::packetByOuterInner<Eigen::internal::redux_vec_unroller<Func,Evaluator,0,1>::run::index,PacketType>(Eigen::Index,Eigen::Index) const'에 대한 참조를 확인하세요.
+          with
+          [
+              PacketType=__m128,
+              Derived=Eigen::CwiseUnaryOp<Eigen::internal::scalar_abs2_op<float>,const Eigen::Matrix<float,4,1,2,4,1>>,
+              Func=Eigen::internal::scalar_sum_op<float,float>,
+              Evaluator=ThisEvaluator
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(177): message : 컴파일되는 함수 템플릿 인스턴스화 'PacketType Eigen::internal::redux_evaluator<Derived>::packetByOuterInner<Eigen::internal::redux_vec_unroller<Func,Evaluator,0,1>::run::index,PacketType>(Eigen::Index,Eigen::Index) const'에 대한 참조를 확인하세요.
+          with
+          [
+              PacketType=__m128,
+              Derived=Eigen::CwiseUnaryOp<Eigen::internal::scalar_abs2_op<float>,const Eigen::Matrix<float,4,1,2,4,1>>,
+              Func=Eigen::internal::scalar_sum_op<float,float>,
+              Evaluator=ThisEvaluator
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(344): message : 컴파일되는 함수 템플릿 인스턴스화 'PacketType Eigen::internal::redux_vec_unroller<Func,Evaluator,0,1>::run<__m128>(const Evaluator &,const Func &)'에 대한 참조를 확인하세요.
+          with
+          [
+              PacketType=__m128,
+              Func=Eigen::internal::scalar_sum_op<float,float>,
+              Evaluator=ThisEvaluator
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(344): message : 컴파일되는 함수 템플릿 인스턴스화 'PacketType Eigen::internal::redux_vec_unroller<Func,Evaluator,0,1>::run<__m128>(const Evaluator &,const Func &)'에 대한 참조를 확인하세요.
+          with
+          [
+              PacketType=__m128,
+              Func=Eigen::internal::scalar_sum_op<float,float>,
+              Evaluator=ThisEvaluator
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(418): message : 컴파일되는 함수 템플릿 인스턴스화 'float Eigen::internal::redux_impl<Func,ThisEvaluator,3,2>::run<Derived>(const Evaluator &,const Func &,const XprType &)'에 대한 참조를 확인하세요.
+          with
+          [
+              Func=Eigen::internal::scalar_sum_op<float,float>,
+              Derived=Eigen::CwiseUnaryOp<Eigen::internal::scalar_abs2_op<float>,const Eigen::Matrix<float,4,1,2,4,1>>,
+              Evaluator=ThisEvaluator,
+              XprType=Eigen::CwiseUnaryOp<Eigen::internal::scalar_abs2_op<float>,const Eigen::Matrix<float,4,1,2,4,1>>
+          ]
+C:\work\octopus\AirLib\include\Eigen\src\Core\Redux.h(418): message : 컴파일되는 함수 템플릿 인스턴스화 'float Eigen::internal::redux_impl<Func,ThisEvaluator,3,2>::run<Derived>(const Evaluator &,const Func &,const XprType &)'에 대한 참조를 확인하세요.
+          with
+          [
+              Func=Eigen::internal::scalar_sum_op<float,float>,
+              Derived=Eigen::CwiseUnaryOp<Eigen::internal::scalar_abs2_op<float>,const Eigen::Matrix<float,4,1,2,4,1>>,
+              Evaluator=ThisEvaluator,
+              XprType=Eigen::CwiseUnaryOp<Eigen::internal::scalar_abs2_op<float>,const Eigen::Matrix<float,4,1,2,4,1>>
+          ]
+  FileSystem.cpp
+  CarRpcLibClient.cpp
+C:\work\octopus\AirLib\include\Eigen\src\Core\arch\Default\Half.h(1,1): error C2220: 다음 경고는 오류로 처리됩니다.
+C:\work\octopus\AirLib\include\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\work\octopus\AirLib\include\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\work\octopus\AirLib\include\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\work\octopus\AirLib\include\Eigen\src\Core\products\GeneralBlockPanelKernel.h(2063,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\work\octopus\AirLib\include\common\AirSimSettings.hpp(17,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'Source/MultiDroneGameInstance.h': No such file or directory
+  CarRpcLibServer.cpp
+C:\work\octopus\AirLib\include\Eigen\src\Core\arch\Default\Half.h(1,1): error C2220: 다음 경고는 오류로 처리됩니다.
+C:\work\octopus\AirLib\include\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\work\octopus\AirLib\include\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\work\octopus\AirLib\include\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\work\octopus\AirLib\include\Eigen\src\Core\products\GeneralBlockPanelKernel.h(2063,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\work\octopus\AirLib\include\common\AirSimSettings.hpp(17,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'Source/MultiDroneGameInstance.h': No such file or directory
+  MultirotorRpcLibClient.cpp
+C:\work\octopus\AirLib\include\Eigen\src\Core\arch\Default\Half.h(1,1): error C2220: 다음 경고는 오류로 처리됩니다.
+C:\work\octopus\AirLib\include\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\work\octopus\AirLib\include\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\work\octopus\AirLib\include\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\work\octopus\AirLib\include\Eigen\src\Core\products\GeneralBlockPanelKernel.h(2063,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\work\octopus\AirLib\include\common\AirSimSettings.hpp(17,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'Source/MultiDroneGameInstance.h': No such file or directory
+  MultirotorRpcLibServer.cpp
+C:\work\octopus\AirLib\include\Eigen\src\Core\arch\Default\Half.h(1,1): error C2220: 다음 경고는 오류로 처리됩니다.
+C:\work\octopus\AirLib\include\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\work\octopus\AirLib\include\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\work\octopus\AirLib\include\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\work\octopus\AirLib\include\Eigen\src\Core\products\GeneralBlockPanelKernel.h(2063,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\work\octopus\AirLib\include\common\AirSimSettings.hpp(17,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'Source/MultiDroneGameInstance.h': No such file or directory

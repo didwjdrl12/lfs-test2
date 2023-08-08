@@ -1,0 +1,22 @@
+﻿  MavlinkForRelay.cpp
+E:\ETRI\Drone2021\Airsim\ProgramBin\MavlinkForRelay\MavlinkForRelay\Library\mavlink_conversions.h(49,33): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\ETRI\Drone2021\Airsim\ProgramBin\MavlinkForRelay\MavlinkForRelay\Library\mavlink_conversions.h(50,19): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\ETRI\Drone2021\Airsim\ProgramBin\MavlinkForRelay\MavlinkForRelay\Library\mavlink_conversions.h(51,19): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\ETRI\Drone2021\Airsim\ProgramBin\MavlinkForRelay\MavlinkForRelay\Library\mavlink_conversions.h(52,19): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\ETRI\Drone2021\Airsim\ProgramBin\MavlinkForRelay\MavlinkForRelay\Library\mavlink_conversions.h(53,33): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\ETRI\Drone2021\Airsim\ProgramBin\MavlinkForRelay\MavlinkForRelay\Library\mavlink_conversions.h(54,19): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\ETRI\Drone2021\Airsim\ProgramBin\MavlinkForRelay\MavlinkForRelay\Library\mavlink_conversions.h(55,19): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\ETRI\Drone2021\Airsim\ProgramBin\MavlinkForRelay\MavlinkForRelay\Library\mavlink_conversions.h(56,19): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\ETRI\Drone2021\Airsim\ProgramBin\MavlinkForRelay\MavlinkForRelay\Library\mavlink_conversions.h(57,33): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\ETRI\Drone2021\Airsim\ProgramBin\MavlinkForRelay\MavlinkForRelay\Library\mavlink_sha256.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\ETRI\Drone2021\Airsim\ProgramBin\MavlinkForRelay\MavlinkForRelay\MavlinkForRelay.cpp(86,11): warning C4244: '초기화 중': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\ETRI\Drone2021\Airsim\ProgramBin\MavlinkForRelay\MavlinkForRelay\MavlinkForRelay.cpp(95,11): warning C4101: 'len' :참조되지 않은 지역 변수입니다.
+E:\ETRI\Drone2021\Airsim\ProgramBin\MavlinkForRelay\MavlinkForRelay\MavlinkForRelay.cpp(94,20): warning C4101: 'msg' :참조되지 않은 지역 변수입니다.
+E:\ETRI\Drone2021\Airsim\ProgramBin\MavlinkForRelay\MavlinkForRelay\MavlinkForRelay.cpp(93,6): warning C4101: 'bytes_sent' :참조되지 않은 지역 변수입니다.
+MavlinkForRelay.obj : error LNK2019: __imp_bindmain 함수에서 참조되는 확인할 수 없는 외부 기호
+MavlinkForRelay.obj : error LNK2019: __imp_closesocketmain 함수에서 참조되는 확인할 수 없는 외부 기호
+MavlinkForRelay.obj : error LNK2019: __imp_htonsmain 함수에서 참조되는 확인할 수 없는 외부 기호
+MavlinkForRelay.obj : error LNK2019: __imp_recvfrommain 함수에서 참조되는 확인할 수 없는 외부 기호
+MavlinkForRelay.obj : error LNK2019: __imp_socketmain 함수에서 참조되는 확인할 수 없는 외부 기호
+MavlinkForRelay.obj : error LNK2019: __imp_inet_ptonmain 함수에서 참조되는 확인할 수 없는 외부 기호
+E:\ETRI\Drone2021\Airsim\ProgramBin\MavlinkForRelay\x64\Debug\MavlinkForRelay.exe : fatal error LNK1120: 6개의 확인할 수 없는 외부 참조입니다.

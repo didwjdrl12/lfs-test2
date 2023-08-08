@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+ <name>ETRI_building7</name> <description>ETRI building 7</description>
+ <Model id="etri_7"> <altitudeMode>relativeToGround</altitudeMode>
+ <Location>
+ <longitude>127.36500260312054</longitude>
+ <latitude>36.3816420290478</latitude>
+ <altitude>0</altitude>
+ </Location>
+ <Orientation>
+ <heading>0</heading>
+ <tilt>0</tilt>
+ <roll>0</roll>
+ </Orientation>
+ <Scale>
+ <x>1</x>
+ <y>1</y>
+ <z>1</z>
+ </Scale> 
+ <Link> <href>CPS_runtime_mesh.kmz/files/ETRI_7/ETRI07.fbx</href> </Link>
+</Placemark>
+<Placemark>
+ <name>ETRI_GYM</name> <description>ETRI gym</description>
+ <Model id="etri_gym"> <altitudeMode>relativeToGround</altitudeMode>
+ <Location>
+ <longitude>127.365980</longitude>
+ <latitude>36.380331</latitude>
+ <altitude>0</altitude>
+ </Location>
+ <Orientation>
+ <heading>0</heading>
+ <tilt>0</tilt>
+ <roll>0</roll>
+ </Orientation>
+ <Scale>
+ <x>1</x>
+ <y>1</y>
+ <z>1</z>
+ </Scale> 
+ <Link> <href>CPS_runtime_mesh.kmz/files/ETRI_GYM/ETRI_GYM.fbx</href> </Link>
+</Placemark>
+<Placemark>
+ <name>ETRI_ground</name> <description>ETRI ground</description>
+ <Model id="etri_ground"> <altitudeMode>relativeToGround</altitudeMode>
+ <Location>
+ <longitude>127.36490316571907</longitude>
+ <latitude>36.38003824872249</latitude>
+ <altitude>0</altitude>
+ </Location>
+ <Orientation>
+ <heading>0</heading>
+ <tilt>0</tilt>
+ <roll>0</roll>
+ </Orientation>
+ <Scale>
+ <x>1</x>
+ <y>1</y>
+ <z>1</z>
+ </Scale> 
+ <Link> <href>CPS_runtime_mesh.kmz/files/ETRI_GROUND/ETRI_GROUND.fbx</href> </Link>
+</Placemark>
+</kml>
